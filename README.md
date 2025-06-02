@@ -27,6 +27,18 @@ This widget displays GPS coordinates as Google Plus Codes on EdgeTX radios with 
 - Shows GPS status (No GPS, Old data indicators)
 - Works in different widget sizes (large, medium, small)
 
+## Features showcase
+
+- Small size <br /> <br />
+![Snimka zaslona 2025-06-02 173351](https://github.com/user-attachments/assets/daf5870c-fe11-4b2e-8ac7-a2d2bafcb762)
+
+- Regular size <br /> <br />
+![Snimka zaslona 2025-06-02 173745](https://github.com/user-attachments/assets/c2d88d27-0bd2-4d6c-97fd-987a0e3c9e61)
+
+- Configuration <br /> <br />
+![Snimka zaslona 2025-06-02 173725](https://github.com/user-attachments/assets/100408aa-98b9-4aa5-8562-09d633dd1e45)
+
+
 ## Troubleshooting
 
 **Widget shows "No GPS Signal":**

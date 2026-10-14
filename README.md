@@ -62,6 +62,6 @@ Google Plus Codes (also known as Open Location Codes) provide a way to encode lo
 
 ## Support
 
-If it's useful to you, you can buy me a coffee:
+If you like it, you can buy me a coffee:
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juricabi)

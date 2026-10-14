@@ -59,3 +59,9 @@ This widget displays GPS coordinates as Google Plus Codes on EdgeTX radios with 
 ## About Google Plus Codes
 
 Google Plus Codes (also known as Open Location Codes) provide a way to encode locations into a short alphanumeric code. This is useful for sharing precise locations without requiring full GPS coordinates. 
+
+## Support
+
+If it's useful to you, you can buy me a coffee:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juricabi)

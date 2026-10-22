@@ -5,6 +5,7 @@ This widget displays GPS coordinates as Google Plus Codes on EdgeTX radios with 
 ## Installation Instructions
 
 1. **Copy the widget folder to your SD card:**
+   - Download the zip from the [latest release](https://github.com/juricabi/EdgeTX_GPS_Plus_Code_Widget/releases/latest) and extract it to the root of the SD card, or
    - Copy the entire `GPlusCd` folder to the `/WIDGETS/` directory on your EdgeTX SD card
    - The file structure should be: `/WIDGETS/GPlusCd/main.lua`
 
